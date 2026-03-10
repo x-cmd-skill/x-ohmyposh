@@ -134,4 +134,3 @@ x ohmyposh --run debug
 - [Oh-My-Posh Website](https://ohmyposh.dev)
 - [x theme](extensions/x-theme/SKILL.md) - Main theme manager
 - [x font](extensions/x-font/SKILL.md) - Font installation
-- [Back to x-cmd Skill](../../SKILL.md)
