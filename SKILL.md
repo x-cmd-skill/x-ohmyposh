@@ -13,7 +13,9 @@ description: |
 | Tool | Purpose | Notes |
 |------|---------|-------|
 | x-cmd | Required module runtime | `brew install x-cmd` |
-| oh-my-posh | Prompt theme engine | Optional - x-cmd auto-downloads if not present |
+| oh-my-posh | Prompt theme engine | Optional - x-cmd auto-downloads from GitHub if not present |
+
+**Auto-download Security**: When oh-my-posh is not found locally, x-cmd downloads the official binary from GitHub (https://github.com/JanDeDobbeleer/oh-my-posh/releases). All downloads are verified with SHA256 checksums before execution.
 
 
 license: Apache-2.0
