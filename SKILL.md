@@ -10,10 +10,10 @@ description: |
 
 ## Prerequisites
 
-| Tool | Purpose | Install |
-|------|---------|---------|
+| Tool | Purpose | Notes |
+|------|---------|-------|
 | x-cmd | Required module runtime | `brew install x-cmd` |
-| oh-my-posh | Prompt theme engine | `brew install oh-my-posh` |
+| oh-my-posh | Prompt theme engine | Optional - x-cmd auto-downloads if not present |
 
 
 license: Apache-2.0
