@@ -132,5 +132,5 @@ x ohmyposh --run debug
 ## Related
 
 - [Oh-My-Posh Website](https://ohmyposh.dev)
-- [x theme](extensions/x-theme/SKILL.md) - Main theme manager
-- [x font](extensions/x-font/SKILL.md) - Font installation
+- [x theme](https://x-cmd.com/mod/theme) - Main theme manager
+- [x font](https://x-cmd.com/mod/font) - Font installation
